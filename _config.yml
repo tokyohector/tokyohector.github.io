@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Wht-rbt-obj
+author: Hector Franco
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Wht-rbt-obj is my personal blog created January 7, 2020. Topics are miscellaneous but generally focus on my life in Japan.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -14,13 +12,13 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    instagram: hectorfranco
+    #twitter: jekyllrb
+    github:  Wht-rbt-obj
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
