@@ -28,7 +28,9 @@
 							</ul>
 						</header>
 						<div class="content">
-							<span class="image fill" data-position="center"><img src="images/pic01.jpg" alt="" /></span>
+							<span class="image fill" data-position="center">
+								<img src="images/pic01.jpg" alt="" /><?php include 'assets/php/spin.php';?>
+							</span>
 						</div>
 					</section>
 
@@ -467,5 +469,6 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/profile.js"></script>
+			<script src="assets/js/spin.js"></script>
 	</body>
 </html>
